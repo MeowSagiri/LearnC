@@ -60,7 +60,7 @@ int main(void) {
     int a,b;
     scanf("%d %d", &a, &b);  //两个%d之间是一个空格，所以输入要对应的输入
     printf("%d\n", a+b);
-    return = 0;
+    return 0;
 }
 ```
 
